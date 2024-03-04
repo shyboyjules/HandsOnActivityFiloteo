@@ -1,0 +1,31 @@
+<html>
+<head>
+	<title></title>
+	<style>
+		body{background-color: #F4EDCC;}
+
+		h1{font: Arial;
+		color: 5F5D9C;
+		font-size: 30px;
+		margin: auto;
+		text-alaign: center;}
+		
+		p1{font: Arial;
+		color: 5F5D9C;
+		font-size: 30px;
+		margin: auto;
+		text-alaign: center;}
+
+		img{margin-left: 140px;
+		border: 2px solid #6196A6;}
+	</style>
+</head>
+<body>
+	<img src="jules.png">
+	<h1><b>JULES GIFFORD T. FILOTEO</b></h1>
+
+	<dev class="container">
+		<p1><i>Hi i'm Jules, i am a student of USTP, my hobbies are playing video games and cosplaying anime characters, please be nice to me.</p1></i>
+	</dev>
+</body>
+</html>
