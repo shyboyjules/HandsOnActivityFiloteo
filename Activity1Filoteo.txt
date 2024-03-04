@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title></title>
+	<title>Portfolio</title>
 	<style>
 		body{background-color: #F4EDCC;}
 
@@ -21,7 +21,7 @@
 	</style>
 </head>
 <body>
-	<img src="jules.png">
+	<img src="jules.png.png">
 	<h1><b>JULES GIFFORD T. FILOTEO</b></h1>
 
 	<dev class="container">
